@@ -52,6 +52,7 @@ public class Day01 {
             total += i;
         }
         System.out.println(total);
+        bf.close();
 
     }
 
@@ -154,6 +155,7 @@ public class Day01 {
             total += i;
         }
         System.out.println(total);
+        bf.close();
 
     }
 }
